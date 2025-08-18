@@ -1,0 +1,67 @@
+Privacy Policy - Driver App
+
+Effective Date: 08/13/2025
+
+This policy explains how we collect, use, and protect your personal data as a registered driver in the Team Car app. By using the app, you agree to the terms of this policy.
+
+1. Data We Collect
+We collect the following data during registration or while using the app:
+
+Full name
+
+Phone number
+
+Residential address
+
+Driver's license and a copy of it
+
+Vehicle data (license plate number, vehicle type, year of manufacture, vehicle category)
+
+Geolocation data while on duty
+
+Any legally required supporting documents
+
+2. How We Use the Data
+Your data is used for the following purposes:
+
+Verifying your eligibility to provide transportation services
+
+Managing your account and ensuring its security
+
+Matching you with suitable passengers
+
+Communicating with you about updates or service-related issues
+
+Complying with legal and regulatory obligations
+
+3. Data Sharing
+
+Your geolocation data may be shared with passengers during a trip
+
+We do not sell or rent your data to third parties
+
+4. Data Protection
+
+We use technical and administrative protection systems to prevent unauthorized access
+
+You are responsible for keeping your password confidential and not sharing it
+
+5. Data Retention Period
+
+We retain your data as long as your account is active or as necessary to provide the service
+
+We may retain some data after account closure to comply with the law or resolve disputes
+
+6. Your Rights
+
+You have the right to request access to, modify, or delete your data, unless retention is legally required
+
+You may contact us via email: teamcar.jo@gmail.com or through the app
+
+7. Amendments
+
+The company may amend this policy at any time, and you will be notified of changes via the app or email
+
+8. Governing Law
+
+This policy is governed by and interpreted according to the laws of the Hashemite Kingdom of Jordan, with jurisdiction vested in the Irbid courts
